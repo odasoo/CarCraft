@@ -1,0 +1,7 @@
+bin/.fabric
+bin/config
+bin/data
+bin/logs
+bin/resourcepacks
+bin/resources
+bin/saves
