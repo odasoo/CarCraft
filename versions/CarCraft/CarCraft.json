@@ -2,7 +2,7 @@
   "id": "CarCraft",
   "jar": "CarCraft",
   "family": "Fabric-1.19",
-  "time": "2022-09-01T20:41:45.730Z",
+  "time": "2022-09-25T22:38:59.599Z",
   "releaseTime": "2022-08-05T11:57:05Z",
   "type": "release",
   "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
